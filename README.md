@@ -1,7 +1,7 @@
 # Eventstagram-Figma-
 UI/UX for Event Management App, created in 6 hours for DJ CSI's Hackathon
 
-Here's the link to the full figma design: shorturl.at/bLZ28
+Here's the link to the full figma design: ![UI](https://www.figma.com/file/R5KFcXCBzoVFlMsR083zrq/Evenstagram!?node-id=323%3A335&t=1x8Estq5DWGhYJJn-1) 
 
 Here are a few screenshots of the UI:
 
